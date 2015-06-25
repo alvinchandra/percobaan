@@ -8,7 +8,11 @@ $passphrase = 'pushchat';
 
 // Put your alert message here:
 $message = 'My first push notification!';
+<<<<<<< Updated upstream
 alvin sangat colol
+=======
+alvin agak colol
+>>>>>>> Stashed changes
 ////////////////////////////////////////////////////////////////////////////////
 
 $ctx = stream_context_create();
