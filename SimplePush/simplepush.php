@@ -9,7 +9,7 @@ $passphrase = 'pushchat';
 // Put your alert message here:
 $message = 'My first push notification!';
 
-alvin sangat colol
+alvin coba lagi
 
 
 $ctx = stream_context_create();
